@@ -1,0 +1,87 @@
+{
+    "params1":{
+        "commName": "和平春天",
+        "address": "陕西省西安市未央区三桥街道红光路社区和平村和平大道路西",
+        "longitude": "108.823256",
+        "latitude": "34.255933",
+        "commid": "610112002",
+        "communityCode": "610112002008",
+        "commCode": "6101120002",
+        "leftUpLongitude": "108.821668",
+        "rightUpLongitude": "108.825123",
+        "leftDownLongitude": "108.821722",
+        "rightDownLongitude": "108.825225",
+        "leftUpLatitude": "34.256984",
+        "rightUpLatitude": "34.256949",
+        "leftDownLatitude": "34.254812",
+        "rightDownLatitude": "34.254945"
+    },
+    "params2":
+        [{
+            "buildNo": "1#",
+            "longitude": "108.823283",
+            "latitude": "34.256975",
+            "houseCount": "192",
+            "memberCount": "273"
+          }, {
+            "buildNo": "3#",
+            "longitude": "108.823353",
+            "latitude": "34.256257",
+            "houseCount": "96",
+            "memberCount": "125"
+          }, {
+            "buildNo": "5#",
+            "longitude": "108.824442",
+            "latitude": "34.256399",
+            "houseCount": "208",
+            "memberCount": "329"
+          }, {
+            "buildNo": "6#",
+            "longitude": "108.823347",
+            "latitude": "34.255459",
+            "houseCount": "96",
+            "memberCount": "137"
+          }, {
+            "buildNo": "7#",
+            "longitude": "108.824527",
+            "latitude": "34.255752",
+            "houseCount": "208",
+            "memberCount": "383"
+          }, {
+            "buildNo": "8#",
+            "longitude": "108.823208",
+            "latitude": "34.255131",
+            "houseCount": "208",
+            "memberCount": "266"
+          }, {
+            "buildNo": "9#",
+            "longitude": "108.824383",
+            "latitude": "34.255109",
+            "houseCount": "260",
+            "memberCount": "354"
+          }, {
+            "buildNo": "11#",
+            "longitude": "108.822205",
+            "latitude": "34.256944",
+            "houseCount": "192",
+            "memberCount": "328"
+          }, {
+            "buildNo": "12#",
+            "longitude": "108.822269",
+            "latitude": "34.256386",
+            "houseCount": "208",
+            "memberCount": "376"
+          }, {
+            "buildNo": "18#",
+            "longitude": "108.822264",
+            "latitude": "34.255685",
+            "houseCount": "208",
+            "memberCount": "307"
+          }, {
+            "buildNo": "20#",
+            "longitude": "108.822194",
+            "latitude": "34.255162",
+            "houseCount": "208",
+            "memberCount": "295"
+          }]
+}
